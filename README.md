@@ -28,7 +28,7 @@ Built for humans, excuses, and humor.
 
 **Base URL**
 ```
-https://naas.isalman.dev/no
+https://naas.api.nixie.online/no
 ```
 
 **Method:** `GET`  
